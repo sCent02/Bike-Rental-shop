@@ -46,3 +46,5 @@ After merging and cleaning the data, you will have to analyze monthly sales of W
 Finally, you should save the `clean_data` and `agg_data` as the csv files.
 
 It is recommended to use `pandas` for this project. 
+
+To learn more about my output for this project, kindly click this [link](/retail_pipeline.py)
