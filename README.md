@@ -1,2 +1,2 @@
-# Building a Retail Data Pieline
+# Building a Retail Data Pipeline
 For Data Engineering portfolio purposes
